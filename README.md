@@ -1,14 +1,13 @@
 # Razan Samer Qubtan - Portfolio
 
-Welcome to my portfolio! Here you will find my verified certificates, training programs, and technical projects.
+Welcome to my portfolio! Here you will find my verified certificates, technical projects, and key achievements.
 
 ## 🎓 Certificates & Achievements
-* **AI & Digital Science**
-* **Autonomous Robotics**
-* **Cryptography & Secure Systems**
-* **Directed Energy & Quantum Technologies**
-* **Renewable & Sustainable Energy**
-* **Propulsion & Space Technologies**
+* **1st Place Winner** - Khalifa Fund & MZN Competition (Team Leader/Member)
+* **Winner** - ATRC School Program in Autonomous Robotics
+* **8 Certified Qualifications** from ATRC in Advanced Technologies & AI
+* **Self-Taught Developer & Researcher** with strong self-study capabilities
+* **AI Solutions Developer**: Built a 7-agent AI application to support students, teachers, and parents
 
 ## 🛠️ Projects & Works
 * **Quantum Route Optimizer**
@@ -16,5 +15,4 @@ Welcome to my portfolio! Here you will find my verified certificates, training p
 * **EduTwin AI**
 
 ## ✉️ Contact
-* **LinkedIn:** [رابط حسابك على لينكدإن]
-* **Email:** [إيميلك]
+* **Email:** rosalinaisok1059@gmail.com
